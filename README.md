@@ -12,20 +12,21 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
 
 ### Part 1. ML solutions in real world scenarios & [AWS Sagemaker](https://aws.amazon.com/sagemaker/)
  - Feature engineering, ML use cases, Data loading with Sagemaker, AWS S3, XGBoost • Autogluon, Hyperparameter tuning, Dataset annotation, Sagemaker jumpstart, Automated ML, Sagemaker data wrangler
- - Project: [StackOverflow 2021-2023 Survey Data Analysis](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/StackOverflow_Survey_Insights)
- - Medium Post: [Decoding Data Science Career: PhD or not](https://medium.com/@LobsterTing/revealing-data-science-careers-is-a-phd-a-necessity-487ac40ceac6)
+ - Project: [Predict Bike Sharing Demand with AutoGluon and AWS Sagemaker]([https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/StackOverflow_Survey_Insights](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle))
+ - Report: [Predict Bike Sharing Demand with AutoGluon Solution
+](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle/project_report.md)
 
 <div align="center">
-  <img src="" width="50%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle/Autogluon.png" width="50%">
 </div>
 
-### Part 2. Software Engineering
- -  Modularized code & version control, Test-driven development (TDD) and Unit test; Object-Oriented Programming (OOP), PyPi
- -  Web Development: front-end (HTML, CSS, Javascript, Bootstrap, Plotly), back-end (Flask)
- -  Project (Web App): [COVID-19 Time Series Forecasting Interactive Dashboard using Dash and Plotly](https://tinglu.pythonanywhere.com/)
+### Part 2. Developing ML Workflow & [AWS Lambda & Step function & Model Endpoints](https://docs.aws.amazon.com/step-functions/latest/dg/vpc-endpoints.html)
+
+ - AWS lambda, Sagemaker processing, Sagemaker batch transform jobs, Sagemaker training jobs, Sagemaker clarify, Machine learning pipeline creation, Sagemaker pipelines, Model monitoring, Sagemaker model endpoints, AWS step functions, Sagemaker model monitor, Sagemaker feature store
+ -  Project: [Build-ML-Workflow-Sagemaker-for-a-Logistics-Company](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company)
 
 <div align="center">
-  <img src="" width="50%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company/Step_function.png" width="50%">
 </div>
 
 ### Part 3. Data Engineering

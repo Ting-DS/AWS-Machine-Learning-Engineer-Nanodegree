@@ -1,10 +1,9 @@
-# Part 2. Developing ML Workflow & [AWS Lambda & Step function & Model Endpoints](https://docs.aws.amazon.com/step-functions/latest/dg/vpc-endpoints.html)
-
- - AWS lambda, Sagemaker processing, Sagemaker batch transform jobs, Sagemaker training jobs, Sagemaker clarify, Machine learning pipeline creation, Sagemaker pipelines, Model monitoring, Sagemaker model endpoints, AWS step functions, Sagemaker model monitor, Sagemaker feature store
- - [Project: Build-ML-Workflow-Sagemaker-for-a-Logistics-Company](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company)
+### Part 4. Operationalize ML to Production using SageMaker & Lambda & Feature store & Autoscaling
+ - Statistical Considerations in A/B Testing, Metric Analysis, Post-Analysis
+ - [Project: Operationalize ML pipeline to Production Server](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Operationalizing-ML-pipeline-Lambda-Production)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company/Step_function.png" width="60%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Operationalizing-ML-pipeline-Lambda-Production/EC2_instance.png" width="50%">
 </div>
 
-Please find the project report [here](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company/writeup.pdf)
+Please find the project report [here](./writeup.pdf)

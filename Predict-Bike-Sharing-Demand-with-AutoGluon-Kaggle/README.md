@@ -55,7 +55,7 @@ I aim to extend the runtime of AutoGluon with a high-quality preset and explore 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 <div align="center">
-  <img src="model_test_score.png" width="70%">
+  <img src="model_test_score.png" width="50%">
 </div>
 
 ## Summary

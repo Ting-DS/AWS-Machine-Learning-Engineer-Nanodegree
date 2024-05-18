@@ -12,7 +12,7 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
 
 ### Part 1. ML solutions in real world scenarios & [AWS Sagemaker](https://aws.amazon.com/sagemaker/)
  - Feature engineering, ML use cases, Data loading with Sagemaker, AWS S3, XGBoost • Autogluon, Hyperparameter tuning, Dataset annotation, Sagemaker jumpstart, Automated ML, Sagemaker data wrangler
- - [Project: Predict Bike Sharing Demand with AutoGluon and AWS Sagemaker](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/StackOverflow_Survey_Insights](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle)
+ - [Project: Predict Bike Sharing Demand with AutoGluon and AWS Sagemaker](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle)
  - Report: [Predict Bike Sharing Demand with AutoGluon Solution](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle/project_report.md)
 
 <div align="center">

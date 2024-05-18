@@ -39,8 +39,7 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
 
 ### Part 4. Operationalizing ML model on Cloud using SageMaker Tools & Lambda & Feature store & Autoscaling
  - Statistical Considerations in A/B Testing, Metric Analysis, Post-Analysis
- - Project: [Starbucks Promotion Strategy Optimization](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/Starbucks_ABtest_Promo_Optimization)
- - Medium Post: [Operationalize ML pipeline to Production Server](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Operationalizing-ML-pipeline-Lambda-Production)
+ - Project: [Operationalize ML pipeline to Production Server](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Operationalizing-ML-pipeline-Lambda-Production)
 
 <div align="center">
   <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Operationalizing-ML-pipeline-Lambda-Production/EC2_instance.png" width="50%">
@@ -51,5 +50,5 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
  - Project: [Starbucks Promotion Analysis and ML model Deployment & Testing](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/ML-end-to-end-solution-for-Starbucks-Marketing-Strategies)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/ML-end-to-end-solution-for-Starbucks-Marketing-Strategies/starbucks.png" width="50%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/ML-end-to-end-solution-for-Starbucks-Marketing-Strategies/starbucks.png" width="60%">
 </div>

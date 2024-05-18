@@ -34,20 +34,21 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
  - Project: [Image Classification using Sagemaker profiler and pre-trained model](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Dog-Image-Classification-AWS-Sagemaker-ResNet50)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Dog-Image-Classification-AWS-Sagemaker-ResNet50/Debugger_summary.png" width="50%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Dog-Image-Classification-AWS-Sagemaker-ResNet50/Debugger_summary.png" width="60%">
 </div>
 
-### Part 4. Experimental Design (A/B Testing)
+### Part 4. Operationalizing ML model on Cloud using SageMaker Tools & Lambda & Feature store & Autoscaling
  - Statistical Considerations in A/B Testing, Metric Analysis, Post-Analysis
  - Project: [Starbucks Promotion Strategy Optimization](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/Starbucks_ABtest_Promo_Optimization)
- - Medium Post: [After A/B Test: Optimize a Advertising Promotion Strategy by Audience Targeting](https://medium.com/@LobsterTing/optimize-a-promotion-strategy-by-a-b-testing-and-audience-targeting-17b7ec49c55b)
+ - Medium Post: [Operationalize ML pipeline to Production Server](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Operationalizing-ML-pipeline-Lambda-Production)
+
 <div align="center">
   <img src="" width="50%">
 </div>
 
 ### Part 5. Recommendation System
- - Knowledge-Based Recommendations, Collaborative Filtering Based Recommendations, Content-Based Recommendations, Matrix Factorization for Recommendations
- - Project: [Recommendation for New Articles in IBM Watson Studio](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/Recommendation_IBM_WatsonStudio)
+ - Cloud resource allocation, AWS lambda, Distributed model training with Sagemaker, Amazon Elastic Compute Cloud, VPC, Sagemaker feature store, Cloud security in AWS, Cloud cost management, Sagemaker logs, Cloud performance management, AWS storage services, Training data manifest files, Sagemaker autoscaling
+ - Project: [Recommendation for New Articles in IBM Watson Studio]()
 
 <div align="center">
   <img src="" width="50%">

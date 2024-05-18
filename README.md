@@ -17,7 +17,7 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
 ](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle/project_report.md)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle/Autogluon.png" width="50%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Predict-Bike-Sharing-Demand-with-AutoGluon-Kaggle/Autogluon.png" width="70%">
 </div>
 
 ### Part 2. Developing ML Workflow & [AWS Lambda & Step function & Model Endpoints](https://docs.aws.amazon.com/step-functions/latest/dg/vpc-endpoints.html)
@@ -26,7 +26,7 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
  -  Project: [Build-ML-Workflow-Sagemaker-for-a-Logistics-Company](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company/Step_function.png" width="50%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company/Step_function.png" width="60%">
 </div>
 
 ### Part 3. Data Engineering

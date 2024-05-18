@@ -29,9 +29,9 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
   <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company/Step_function.png" width="60%">
 </div>
 
-### Part 3. Data Engineering
- - ETL pipeline, NLP pipeline, Machine Learning Pipeline, SQLite, Flask Web App
- - Project: [Disaster Message Multi-label Classification ML Pipeline](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/Disaster_Classification_ETL_Pipeline)
+### Part 3. Deep Learning Topics with Computer Vision and NLP & Transfer Learning 
+  - Neural network basics, Deep learning fluency, Sagemaker jumpstart, Machine learning framework fundamentals, Hyperparameter tuning, Sagemaker training jobs, Transformer neural networks, Sagemaker debugger, Image classification, Training neural networks, Deep learning model optimization, Transfer learning, PyTorch, Model deployment with Sagemaker, Convolutional neural networks, Text classification, Model performance metrics, ETL pipeline, NLP pipeline, Machine Learning Pipeline, SQLite, Flask Web App
+ - Project: [Image Classification using [Sagemaker profiler](https://aws.amazon.com/blogs/machine-learning/announcing-the-preview-of-amazon-sagemaker-profiler-track-and-visualize-detailed-hardware-performance-data-for-your-model-training-workloads/) and pre-trained model](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Dog-Image-Classification-AWS-Sagemaker-ResNet50)
 
 <div align="center">
   <img src="" width="50%">

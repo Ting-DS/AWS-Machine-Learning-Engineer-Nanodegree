@@ -50,5 +50,5 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
  - Project: [Starbucks Promotion Analysis and ML model Deployment & Testing](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/ML-end-to-end-solution-for-Starbucks-Marketing-Strategies)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/ML-end-to-end-solution-for-Starbucks-Marketing-Strategies/starbucks.png" width="60%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/ML-end-to-end-solution-for-Starbucks-Marketing-Strategies/starbucks2.png" width="60%">
 </div>

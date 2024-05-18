@@ -1,6 +1,8 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
 #### Ting Lu
 
+Visit the [Kaggle Bike Sharing Demand Competition](https://www.kaggle.com/c/bike-sharing-demand) page. There you will see the overall details about the competition including overview, data, code, discussion, leaderboard, and rules.
+
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 
@@ -46,11 +48,15 @@ I aim to extend the runtime of AutoGluon with a high-quality preset and explore 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](model_train_score.png)
+<div align="center">
+  <img src="model_train_score.png" width="50%">
+</div>
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](model_test_score.png)
+<div align="center">
+  <img src="model_test_score.png" width="70%">
+</div>
 
 ## Summary
 

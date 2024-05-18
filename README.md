@@ -37,7 +37,7 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
 </div>
 
 ### Part 4. Operationalize ML to Production using SageMaker & Lambda & Feature store & Autoscaling
- - Statistical Considerations in A/B Testing, Metric Analysis, Post-Analysis
+ - Cloud resource allocation, AWS lambda, Distributed model training with Sagemaker, Amazon Elastic Compute Cloud, VPC, Sagemaker feature store, Cloud security in AWS, Cloud cost management, Sagemaker logs, Cloud performance management, AWS storage services, Training data manifest files, Sagemaker autoscaling
  - [Project: Operationalize ML pipeline to Production Server](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Operationalizing-ML-pipeline-Lambda-Production)
 
 <div align="center">

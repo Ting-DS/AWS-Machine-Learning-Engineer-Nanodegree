@@ -37,7 +37,7 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
   <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Dog-Image-Classification-AWS-Sagemaker-ResNet50/Debugger_summary.png" width="60%">
 </div>
 
-### Part 4. Operationalizing ML model on Cloud using SageMaker Tools & Lambda & Feature store & Autoscaling
+### Part 4. Operationalize ML to Production using SageMaker & Lambda & Feature store & Autoscaling
  - Statistical Considerations in A/B Testing, Metric Analysis, Post-Analysis
  - Project: [Operationalize ML pipeline to Production Server](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Operationalizing-ML-pipeline-Lambda-Production)
 

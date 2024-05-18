@@ -4,5 +4,5 @@
  - [Project: Build-ML-Workflow-Sagemaker-for-a-Logistics-Company](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company)
 
 <div align="center">
-  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Build-ML-Workflow-Sagemaker-for-Logistics-Company/Step_function.png" width="60%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Build-ML-Workflow-Sagemaker-Logistics/Step_function.png" width="60%">
 </div>

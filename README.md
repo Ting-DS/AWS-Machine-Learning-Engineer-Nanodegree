@@ -43,22 +43,13 @@ This repository contains 5 Machine Learning Engineer projects using AWS Sagemake
  - Medium Post: [Operationalize ML pipeline to Production Server](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/Operationalizing-ML-pipeline-Lambda-Production)
 
 <div align="center">
-  <img src="" width="50%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/blob/main/Operationalizing-ML-pipeline-Lambda-Production/EC2_instance.png" width="50%">
 </div>
 
-### Part 5. Recommendation System
- - Cloud resource allocation, AWS lambda, Distributed model training with Sagemaker, Amazon Elastic Compute Cloud, VPC, Sagemaker feature store, Cloud security in AWS, Cloud cost management, Sagemaker logs, Cloud performance management, AWS storage services, Training data manifest files, Sagemaker autoscaling
- - Project: [Recommendation for New Articles in IBM Watson Studio]()
+### Capstone Project. Build an ML end-to-end solution for Starbucks Marketing Strategies
+ - Customer segmentation, Behavioral Analysis, Predictive Model, Sagemaker SDK Deployment, AutoML, Endpoint, Model Querying, HTTP request
+ - Project: [Starbucks Promotion Analysis and ML model Deployment & Testing](https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/ML-end-to-end-solution-for-Starbucks-Marketing-Strategies)
 
 <div align="center">
-  <img src="" width="50%">
-</div>
-
-### Capstone Project. Big Data Analysis with Spark
- - Apache Spark, Spark Data Frames, Spark ML, Spark SQL, AWS Elastic MapReduce (EMR)
- - Project: [Music App User Churn Prediction using 12GB activities data](https://github.com/Ting-DS/Data-Scientist-Nanodegreee-Udacity/tree/main/MusicApp_Spark_ML_AWS)
- - Medium Post: [Predict User Churn with Spark & AWS](https://medium.com/@LobsterTing/spark-ml-with-aws-emr-acdfab30ef01)
-
-<div align="center">
-  <img src="" width="50%">
+  <img src="https://github.com/Ting-DS/AWS-Machine-Learning-Engineer-Nanodegree/tree/main/ML-end-to-end-solution-for-Starbucks-Marketing-Strategies/starbucks.png" width="50%">
 </div>
